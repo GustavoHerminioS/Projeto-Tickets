@@ -1,0 +1,9 @@
+C:\Users\guguh\source\repos\PIM\Empresa.Db\bin\Debug\Empresa.Db.dll
+C:\Users\guguh\source\repos\PIM\Empresa.Db\bin\Debug\Empresa.Db.pdb
+C:\Users\guguh\source\repos\PIM\Empresa.Db\bin\Debug\Empresa.Models.dll
+C:\Users\guguh\source\repos\PIM\Empresa.Db\bin\Debug\Empresa.Models.pdb
+C:\Users\guguh\source\repos\PIM\Empresa.Db\obj\Debug\Empresa.Db.csproj.AssemblyReference.cache
+C:\Users\guguh\source\repos\PIM\Empresa.Db\obj\Debug\Empresa.Db.csproj.CoreCompileInputs.cache
+C:\Users\guguh\source\repos\PIM\Empresa.Db\obj\Debug\Empresa.Db.csproj.Up2Date
+C:\Users\guguh\source\repos\PIM\Empresa.Db\obj\Debug\Empresa.Db.dll
+C:\Users\guguh\source\repos\PIM\Empresa.Db\obj\Debug\Empresa.Db.pdb

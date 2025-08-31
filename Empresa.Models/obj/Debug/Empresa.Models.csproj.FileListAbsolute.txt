@@ -1,0 +1,6 @@
+C:\Users\guguh\source\repos\PIM\Empresa.Models\bin\Debug\Empresa.Models.dll
+C:\Users\guguh\source\repos\PIM\Empresa.Models\bin\Debug\Empresa.Models.pdb
+C:\Users\guguh\source\repos\PIM\Empresa.Models\obj\Debug\Empresa.Models.csproj.AssemblyReference.cache
+C:\Users\guguh\source\repos\PIM\Empresa.Models\obj\Debug\Empresa.Models.csproj.CoreCompileInputs.cache
+C:\Users\guguh\source\repos\PIM\Empresa.Models\obj\Debug\Empresa.Models.dll
+C:\Users\guguh\source\repos\PIM\Empresa.Models\obj\Debug\Empresa.Models.pdb
