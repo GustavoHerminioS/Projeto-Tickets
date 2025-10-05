@@ -1,14 +1,10 @@
-# .gitignore completo para Windows Forms / Visual Studio / C#
-
 # Build folders
-
 bin/
 obj/
 Debug/
 Release/
 
 # Visual Studio
-
 .vs/
 *.user
 *.suo
@@ -20,19 +16,16 @@ Release/
 *.cachefile
 
 # Windows
-
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
-# Resx / Resources
-
-*.resx
-*.resources
+# Resx / Resources (mantenha apenas arquivos gerados automaticamente)
+# NÃO ignore arquivos .resx se forem seus próprios recursos!
+# *.resx   <-- COMENTE esta linha se você usa recursos no Windows Forms
 
 # Packages / NuGet
-
 *.nupkg
 packages/
 *.snupkg
@@ -41,24 +34,26 @@ project.fragment.lock.json
 artifacts/
 
 # Rider IDE
-
 .idea/
 *.sln.iml
 
 # Logs
-
 *.log
 
-# Executables / DLLs
-
+# Executáveis / DLLs
 *.exe
 *.dll
 *.pdb
 
 # Misc
-
 *.bak
 *.old
 *.orig
 *.tmp
 *.temp
+
+# ✅ IMPORTANTE: mantenha arquivos de projeto e solução
+!*.csproj
+!*.sln
+!*.config
+!*.resx
