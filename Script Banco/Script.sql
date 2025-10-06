@@ -1,4 +1,4 @@
-USE [Empresa.PIM]
+USE [master]
 GO
 /****** Object:  Table [dbo].[Chamados]    Script Date: 02/10/2025 16:59:25 ******/
 SET ANSI_NULLS ON
@@ -51,3 +51,4 @@ REFERENCES [dbo].[Usuarios] ([Id])
 GO
 ALTER TABLE [dbo].[Chamados] CHECK CONSTRAINT [FK_Chamados_Usuarios]
 GO
+
