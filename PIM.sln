@@ -1,13 +1,12 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36401.2
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empresa.UI.Windows", "E:\PIM\PIM\Empresa.UI.Windows\Empresa.UI.Windows.csproj", "{84EC6647-539A-455A-B1EE-C667D95FD93B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empresa.UI.Windows", "Empresa.UI.Windows\Empresa.UI.Windows.csproj", "{84EC6647-539A-455A-B1EE-C667D95FD93B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empresa.Db", "E:\PIM\PIM\Empresa.Db\Empresa.Db.csproj", "{C9F1A5E3-F0AC-47BA-A34E-4A162C5E76C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empresa.Db", "Empresa.Db\Empresa.Db.csproj", "{C9F1A5E3-F0AC-47BA-A34E-4A162C5E76C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empresa.Models", "E:\PIM\PIM\Empresa.Models\Empresa.Models.csproj", "{3B59A5B7-6A6A-431E-B9BC-A01F06F40D60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empresa.Models", "Empresa.Models\Empresa.Models.csproj", "{3B59A5B7-6A6A-431E-B9BC-A01F06F40D60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
